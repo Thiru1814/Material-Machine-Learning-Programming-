@@ -11,5 +11,5 @@ We got 2 types of material Prediction
 After certain degree of solute got dissolved in solvent (supersaturation), the undissolved solutes are making their own self bonding each other and with solvent partially or fully.
 so the question is, what is probability of degree of bonding or dispersion of the extra undissolved solutes in the fully saturated solvent?
 (Is it correlated with the size of ion or neutral atoms difference, electronegativity, influence of environmental factors like Pressure, Temp, or by other atoms presents)
-# Task [1] for week 1
+## Task [1] for week 1
 Build a unsupervised learning model to get the overall look on correlation between various groups of internstic parameters of atoms in a alloys Material Databases or Datasets.
