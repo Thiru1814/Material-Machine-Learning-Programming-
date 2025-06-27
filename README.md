@@ -13,3 +13,5 @@ so the question is, what is probability of degree of bonding or dispersion of th
 (Is it correlated with the size of ion or neutral atoms difference, electronegativity, influence of environmental factors like Pressure, Temp, or by other atoms presents)
 ## Task [1] for week 1
 Build a unsupervised learning model to get the overall look on correlation between various groups of internstic parameters of atoms in a alloys Material Databases or Datasets.
+## Polymer'5 properties peridictions
+Kaggle Compeidation
