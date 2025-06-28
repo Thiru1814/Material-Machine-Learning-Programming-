@@ -15,3 +15,9 @@ so the question is, what is probability of degree of bonding or dispersion of th
 Build a unsupervised learning model to get the overall look on correlation between various groups of internstic parameters of atoms in a alloys Material Databases or Datasets.
 ## Polymer'5 properties peridictions
 Kaggle Compeidation
+
+
+
+now the wMAE is 0.14%. But my goal is less than 0.00014%
+
+New Feature is required for more optimization techniques 
